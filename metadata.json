@@ -1,0 +1,6 @@
+{
+  "name": "Nitro Rivals",
+  "description": "High-octane arcade multiplayer racing game with 2-player split screen, customizable supercars, drifting physics, nitro boosts, and grand prix championship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

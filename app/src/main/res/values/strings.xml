@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nitro Rivals</string>
+    <string name="title_multiplayer">2-Player Duel</string>
+    <string name="title_grand_prix">Grand Prix</string>
+    <string name="title_time_trial">Time Trial</string>
+    <string name="title_garage">Garage</string>
+    <string name="btn_race">RACE NOW</string>
+    <string name="btn_nitro">NITRO</string>
+    <string name="btn_drift">DRIFT</string>
+    <string name="p1_label">Player 1 (Blue)</string>
+    <string name="p2_label">Player 2 (Orange)</string>
+    <string name="lap_text">Lap %1$d/%2$d</string>
+    <string name="pos_text">POS %1$d/%2$d</string>
+</resources>
